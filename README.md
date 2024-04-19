@@ -1,3 +1,5 @@
+## Explorando os Recursos de IA Generativa com Copilot e OpenAI 
+
 ## Copilot
 
 > O Copilot é uma ferramenta de produtividade alimentada por IA que usa LLMs (grandes modelos de idioma), um tipo de algoritmo de IA (inteligência artificial) que usa técnicas de aprendizado profundo e vastos conjuntos de dados para entender, resumir, prever e gerar conteúdo. Esses LLMs incluem modelos pré-treinados, como Transformadores Pré-Treinados Generativos (GPT), como GPT-4, projetados para se destacar nessas tarefas. Essa integração fornece assistência inteligente em tempo real, permitindo que os usuários aprimorem sua criatividade, produtividade e habilidades.
@@ -80,3 +82,4 @@ Algumas aplicações potenciais incluem:
 - **Desenvolvimento de Software**: O Copilot e ferramentas semelhantes têm o potencial de acelerar o desenvolvimento de software, automatizando tarefas repetitivas e sugerindo soluções criativas para problemas complexos.
 
 Em resumo, os recursos de IA generativa oferecidos pelo Copilot da GitHub e pela OpenAI estão redefinindo a forma como interagimos com o código e o texto. Ao explorar essas tecnologias, é essencial considerar não apenas seu potencial para inovação, mas também as implicações éticas e sociais associadas ao seu uso.
+
