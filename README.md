@@ -8,13 +8,15 @@
 
 Claro, eu criei uma imagem de um urso polar com seus filhotes. Espero que você goste! 🐾🌨️
 
-![URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT](C:\Users\mario\Downloads\URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT.jpeg)
+![image](https://tse3.mm.bing.net/th/id/OIG1.OOcoIwNBGRSaTkNhKMgi?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
+![image](https://tse2.mm.bing.net/th/id/OIG1.G.QBO58DWbRONKYpOiJ7?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
+![image](https://tse2.mm.bing.net/th/id/OIG1.dkY23yuGaXY.457tuNlD?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
 
-![URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT - 2](C:\Users\mario\Downloads\URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT - 2.jpeg)
 
-![IA MICROSOFT 1](C:\Users\mario\Downloads\IA MICROSOFT 1.jpeg)
 
-![image](https://copilot.microsoft.com/images/create/urso-polar-e-seus-filhotes/1-6622f779a6b44ce68b78355746477ca7?id=nk6IKPNdp2HV2mgfZCbjmA%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG1.OOcoIwNBGRSaTkNhKMgi&form=SYDBIC)
+![image](https://tse4.mm.bing.net/th/id/OIG1.v3eSaBl_WrkYZo.tMonX?pid=ImgGn)
+
+
 
 Ele te ajuda de várias maneiras. Aqui estão algumas das coisas que fazer:
 
