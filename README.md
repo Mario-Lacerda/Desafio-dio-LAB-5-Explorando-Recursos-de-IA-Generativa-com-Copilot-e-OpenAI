@@ -14,7 +14,7 @@ Claro, eu criei uma imagem de um urso polar com seus filhotes. Espero que você 
 
 ![IA MICROSOFT 1](C:\Users\mario\Downloads\IA MICROSOFT 1.jpeg)
 
-
+![image](https://copilot.microsoft.com/images/create/urso-polar-e-seus-filhotes/1-6622f779a6b44ce68b78355746477ca7?id=nk6IKPNdp2HV2mgfZCbjmA%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG1.OOcoIwNBGRSaTkNhKMgi&form=SYDBIC)
 
 Ele te ajuda de várias maneiras. Aqui estão algumas das coisas que fazer:
 
