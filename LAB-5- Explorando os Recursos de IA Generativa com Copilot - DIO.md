@@ -1,3 +1,5 @@
+## Explorando os Recursos de IA Generativa com Copilot e OpenAI 
+
 ## Copilot
 
 > O Copilot é uma ferramenta de produtividade alimentada por IA que usa LLMs (grandes modelos de idioma), um tipo de algoritmo de IA (inteligência artificial) que usa técnicas de aprendizado profundo e vastos conjuntos de dados para entender, resumir, prever e gerar conteúdo. Esses LLMs incluem modelos pré-treinados, como Transformadores Pré-Treinados Generativos (GPT), como GPT-4, projetados para se destacar nessas tarefas. Essa integração fornece assistência inteligente em tempo real, permitindo que os usuários aprimorem sua criatividade, produtividade e habilidades.
@@ -6,11 +8,13 @@
 
 Claro, eu criei uma imagem de um urso polar com seus filhotes. Espero que você goste! 🐾🌨️
 
-![URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT](C:\Users\mario\Downloads\URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT.jpeg)
+![image](https://tse3.mm.bing.net/th/id/OIG1.OOcoIwNBGRSaTkNhKMgi?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
+![image](https://tse2.mm.bing.net/th/id/OIG1.G.QBO58DWbRONKYpOiJ7?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
+![image](https://tse2.mm.bing.net/th/id/OIG1.dkY23yuGaXY.457tuNlD?w=270&h=270&c=6&r=0&o=5&pid=ImgGn)
 
-![URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT - 2](C:\Users\mario\Downloads\URSO POLAR E FILHOTES IA GENERATIVA MICROSOFT - 2.jpeg)
 
-![IA MICROSOFT 1](C:\Users\mario\Downloads\IA MICROSOFT 1.jpeg)
+
+![image](https://tse4.mm.bing.net/th/id/OIG1.v3eSaBl_WrkYZo.tMonX?pid=ImgGn)
 
 
 
